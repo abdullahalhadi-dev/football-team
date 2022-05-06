@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "email": "drees0@themeforest.net",
+    "image": "https://i.ibb.co/34ZPgMX/ronaldo-mencdlx5np1a1mdpx622vshn3.jpg",
+    "salary": 659504
+  }, {
+    "id": 2,
+    "name": "Trent Alexander-Arnold",
+    "email": "eivan1@miibeian.gov.cn",
+    "image": "https://i.ibb.co/rky2JyK/thumb-124982-default-news-size-5.jpg",
+    "salary": 386853
+  }, {
+    "id": 3,
+    "name": "Karim Benzema",
+    "email": "tdunmore2@ebay.co.uk",
+    "image": "https://i.ibb.co/K9yNctv/karim-Benzema.jpg",
+    "salary": 929516
+  }, {
+    "id": 4,
+    "name": "Harry Kane",
+    "email": "shaddy3@imageshack.us",
+    "image": "https://i.ibb.co/cgSMGrX/download.jpg",
+    "salary": 468417
+  }, {
+    "id": 5,
+    "name": "Erling Haaland",
+    "email": "ltuxell4@biblegateway.com",
+    "image": "https://i.ibb.co/PwFXZpH/3114573-63847188-2560-1440.jpg",
+    "salary": 789808
+  }, {
+    "id": 6,
+    "name": "Kylian Mbappe",
+    "email": "morto5@prnewswire.com",
+    "image": "https://i.ibb.co/dW1j9pK/download-1.jpg",
+    "salary": 3043
+  }, {
+    "id": 7,
+    "name": "Mohamed Salah",
+    "email": "twiley6@google.com.au",
+    "image": "https://i.ibb.co/9Vg035b/3358520-68650668-2560-1440.jpg",
+    "salary": 761864
+  }, {
+    "id": 8,
+    "name": "Kevin De Bruyne",
+    "email": "tpedycan7@gizmodo.com",
+    "image": "https://i.ibb.co/7bL1kLY/download-2.jpg",
+    "salary": 786624
+  }]
